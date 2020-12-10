@@ -1,4 +1,10 @@
 # appcoins-server-validator
+
+
+# This project has been moved to -> https://github.com/Catappult/appcoins-server-validator
+
+
+
 Documentation for APPC purchases server to server validation.
 
 Both this projects assumes Pipenv and Python3.8 are already installed. These are also prepared to distinguish production/development/local environments.
